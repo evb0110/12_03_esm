@@ -1,0 +1,25 @@
+{
+  "name": "12_03_esm",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evb0110/12_03_esm"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "live-start": "live-server src"
+  },
+  "keywords": [],
+  "author": "eugene",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
